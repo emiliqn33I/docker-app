@@ -1,2 +1,2 @@
 # docker-app
-Basic app using docker
+Basic app displaying data and time using docker
